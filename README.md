@@ -74,9 +74,7 @@ Check out more of my work in the [repositories](https://github.com/BFHUI-studio?
 
 ## 🎨 Fun Stuff  
 
-- 🎵 **Favorite Music:** Indie, Lo-fi, and Classical.  
-- 🎮 **Hobbies:** Gaming, photography, and writing.  
-- 💡 **Quote I live by:**  
+- 🎵 **Favorite Activity:** Hand-Writing is my favorite.
   > "Strive not to be a success, but rather to be of value." – Albert Einstein  
 
 ---
