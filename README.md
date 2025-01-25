@@ -55,9 +55,7 @@ Hi there! I'm **Little Wolf**, a passionate developer, problem solver, and lifel
 
 Here are some of my favorite projects that I've worked on:
 
-- [**🚀 Project 1**](https://github.com/BFHUI-studio/project1): A full-stack application built with React and Node.js.  
-- [**📦 Project 2**](https://github.com/BFHUI-studio/project2): A Python automation tool for data analysis.  
-- [**🛠️ Project 3**](https://github.com/BFHUI-studio/project3): An open-source CLI tool for developers.  
+- [**🚀 Project 1**](https://github.com/BFHUI-studio/BFHUI-Studio): Information.  
 
 Check out more of my work in the [repositories](https://github.com/BFHUI-studio?tab=repositories) section!  
 
