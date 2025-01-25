@@ -44,9 +44,9 @@ Hi there! I'm **Little Wolf**, a passionate developer, problem solver, and lifel
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BFHUI-studio&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BFHUI-studio&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFHUI-studio&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BFHUI-studio&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /><br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BFHUI-studio&theme=radical&hide_border=true" alt="GitHub Streak" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFHUI-studio&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /><br />
 </p>
 
 ---
