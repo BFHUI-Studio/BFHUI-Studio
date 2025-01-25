@@ -8,13 +8,13 @@
 
 ## 👨‍💻 About Me  
 
-Hi there! I'm **[你的名字]**, a passionate developer, problem solver, and lifelong learner. I love building things that make life easier, more fun, or just plain cool. Here's a little more about me:
+Hi there! I'm **Little Wolf**, a passionate developer, problem solver, and lifelong learner. I love building things that make life easier, more fun, or just plain cool. Here's a little more about me:
 
-- 🔭 **Currently working on:** [你的项目或领域]  
-- 🌱 **Learning:** [你正在学习的技能或技术]  
-- 💡 **Interests:** [你的兴趣或爱好]  
-- 🎯 **Goal for 2025:** [你的目标，比如“成为全栈开发工程师”或“贡献更多开源项目”]  
-- 📫 **Reach me at:** [你的邮箱或社交媒体链接]  
+- 🔭 **Currently working on:** Building innovative and efficient software solutions.  
+- 🌱 **Learning:** Advanced algorithms, AI, and cloud technologies.  
+- 💡 **Interests:** Open-source projects, problem-solving, and creative coding.  
+- 🎯 **Goal for 2025:** Contribute more to open-source projects and build tools that help developers.  
+- 📫 **Reach me at:** [littlewolf@bfhui.studio](mailto:littlewolf@bfhui.studio)  
 
 ---
 
@@ -44,9 +44,9 @@ Hi there! I'm **[你的名字]**, a passionate developer, problem solver, and li
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=你的GitHub用户名&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BFHUI-studio&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BFHUI-studio&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BFHUI-studio&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -55,11 +55,11 @@ Hi there! I'm **[你的名字]**, a passionate developer, problem solver, and li
 
 Here are some of my favorite projects that I've worked on:
 
-- [**🚀 Project 1**](https://github.com/你的GitHub用户名/项目1): 简单描述项目（例如：一个使用 React 和 Node.js 构建的全栈应用）
-- [**📦 Project 2**](https://github.com/你的GitHub用户名/项目2): 简单描述项目（例如：一个 Python 自动化脚本工具）
-- [**🛠️ Project 3**](https://github.com/你的GitHub用户名/项目3): 简单描述项目（例如：一个开源的 CLI 工具）
+- [**🚀 Project 1**](https://github.com/BFHUI-studio/project1): A full-stack application built with React and Node.js.  
+- [**📦 Project 2**](https://github.com/BFHUI-studio/project2): A Python automation tool for data analysis.  
+- [**🛠️ Project 3**](https://github.com/BFHUI-studio/project3): An open-source CLI tool for developers.  
 
-Check out more of my work in the [repositories](https://github.com/你的GitHub用户名?tab=repositories) section!  
+Check out more of my work in the [repositories](https://github.com/BFHUI-studio?tab=repositories) section!  
 
 ---
 
@@ -69,22 +69,22 @@ Check out more of my work in the [repositories](https://github.com/你的GitHub�
   <a href="https://linkedin.com/in/你的LinkedIn用户名"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/你的Twitter用户名"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://你的个人博客链接"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" /></a>
-  <a href="mailto:你的邮箱地址"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:littlewolf@bfhui.studio"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ## 🎨 Fun Stuff  
 
-- 🎵 **Favorite Music:** [你的喜欢的音乐类型或歌手]  
-- 🎮 **Hobbies:** [你喜欢的爱好，如“打游戏、摄影、写作”等]  
+- 🎵 **Favorite Music:** Indie, Lo-fi, and Classical.  
+- 🎮 **Hobbies:** Gaming, photography, and writing.  
 - 💡 **Quote I live by:**  
   > "Strive not to be a success, but rather to be of value." – Albert Einstein  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BFHUI-studio&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
