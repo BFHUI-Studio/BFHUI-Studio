@@ -9,6 +9,18 @@
 ## 👨‍💻 About Me  
 <center>
 <img src="https://avatars.githubusercontent.com/u/102739430?v=4" alt="" size="250" height="250" width="250" data-view-component="true" class="avatar circle">
+
+  <body style="font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; background-color: #f9f9f9;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div style="width: 100px; height: 100px; border-radius: 20px; overflow: hidden; position: relative;">
+      <img src="https://avatars.githubusercontent.com/u/102739430?v=4" alt="Avatar" style="width: 250px; height: 250px; object-fit: cover;">
+    </div>
+    <div style="display: flex; flex-direction: column;">
+      <p style="font-size: 24px; font-weight: bold; margin: 0;">Little Wolf</p>
+      <p style="font-size: 16px; color: gray; margin: 0;">A little developer.</p>
+    </div>
+  </div>
+</body>
 </center>
 
 Hi there! I'm **Little Wolf**, a passionate developer, problem solver, and lifelong learner. I love building things that make life easier, more fun, or just plain cool. Here's a little more about me:
