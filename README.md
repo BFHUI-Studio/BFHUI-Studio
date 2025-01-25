@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me  
 <center>
-<img src="https://avatars.githubusercontent.com/u/102739430?v=4" alt="" size="100" height="100" width="100" data-view-component="true" class="avatar circle">
+<img src="https://avatars.githubusercontent.com/u/102739430?v=4" alt="" size="250" height="250" width="250" data-view-component="true" class="avatar circle">
 </center>
 
 Hi there! I'm **Little Wolf**, a passionate developer, problem solver, and lifelong learner. I love building things that make life easier, more fun, or just plain cool. Here's a little more about me:
