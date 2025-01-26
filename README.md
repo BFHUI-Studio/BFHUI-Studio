@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me  
 
-<img src="https://raw.staticdn.net/BFHUI-Studio/BFHUI-Studio/refs/heads/main/是法国色入_compressed.png" height="250px" />
+<img src="https://namecard.protects.app/generate?name=Little%20Wolf&description=A%20little%20developer&avatar=https://avatars.githubusercontent.com/u/102739430?v=4" height="250px" />
 
 Hi there! I'm **Little Wolf**, a passionate developer, problem solver, and lifelong learner. I love building things that make life easier, more fun, or just plain cool. Here's a little more about me:
 
