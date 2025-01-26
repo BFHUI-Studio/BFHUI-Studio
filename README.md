@@ -63,7 +63,7 @@ Hi there! I'm **Little Wolf**, a passionate developer, problem solver, and lifel
 
 Here are some of my favorite projects that I've worked on:
 
-- [**🚀 Project 1**](https://github.com/BFHUI-studio/BFHUI-Studio): Information.  
+- [**🚀 GH Name Card**](https://github.com/BFHUI-Studio/GH-NameCard): Information.  
 
 Check out more of my work in the [repositories](https://github.com/BFHUI-studio?tab=repositories) section!  
 
