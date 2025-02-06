@@ -21,12 +21,6 @@ Hi there! I'm **Little Wolf**, a passionate developer, problem solver, and lifel
 
 ---
 
-## 🦶 NSFW Daily Routine
-
-![Someactivities](https://raw.staticdn.net/BFHUI-Studio/BFHUI-Studio/refs/heads/main/grid-0002_compressed%20(1)_compressed.png)
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages  
